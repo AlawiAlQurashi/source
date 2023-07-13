@@ -1,5 +1,5 @@
 {
-    "name": "𝘾𝙍 • 𝙎𝙊𝙐𝙍𝘾𝙀",
+    "name": "𝐀𝐖 • 𝙎𝙊𝙐𝙍𝘾𝙀",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
     "logo": "https://telegra.ph/file/1a38e52936d7007199c78.jpg",
     "keywords": [
@@ -110,7 +110,7 @@
       },      
       "UPSTREAM_REPO": {
         "description": "سيبها زي مهيا .",
-        "value": "git clone https://github.com/o0ooo0oo/arab1",
+        "value": "git clone https://github.com/AlawiAlQurashi/source",
         "required": true
       },
       "UPSTREAM_BRANCH": {
